@@ -1,4 +1,4 @@
-def is0dd(x):
+def isOdd(x):
     if (x>30 or x<0):
         return 'number is out of given range'
     elif (x<30 or x%2==1):
