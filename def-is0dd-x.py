@@ -6,4 +6,4 @@ def isOdd(x):
     else:
         return 'number is even'
 
-print(is0dd(22)
+print(isOdd(22)
